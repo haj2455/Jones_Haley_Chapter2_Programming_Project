@@ -14,9 +14,9 @@ int main()
 	oceanlevel2 = millimeters * year2;
 	oceanlevel3 = millimeters * year3;
 
-	cout << "In " << year1 << "the ocean level will be " << oceanlevel1 << "millimeters" << endl;
-	cout << "In " << year2 << "the ocean level will be " << oceanlevel2 << "millimeters" << endl;
-	cout << "In " << year3 << "the ocean level will be " << oceanlevel3 << "millimeters" << endl;
+	cout << "In " << year1 << " years, the ocean level will be " << oceanlevel1 << " millimeters" << endl;
+	cout << "In " << year2 << " years, the ocean level will be " << oceanlevel2 << " millimeters" << endl;
+	cout << "In " << year3 << " years, the ocean level will be " << oceanlevel3 << " millimeters" << endl;
 
 	return 0;
 }
