@@ -14,7 +14,7 @@ int main() {
 	double distancehighway = tank_capacity * mpg_highway;
 
 	cout << "The amount of distance the car can travel in town on one tank of gas is " << distancetown << " miles." << endl;
-	cout << "The amount of distnce the car can travel on the highway on one tank of gas is " << distancehighway << " miles." << endl;
+	cout << "The amount of distance the car can travel on the highway on one tank of gas is " << distancehighway << " miles." << endl;
 
 	return 0;
 
