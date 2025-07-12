@@ -2,5 +2,8 @@
 //Traveling on a tank of gas
 
 #include <iostream>
+using namespace std;
 
-int main()
+int main() {
+
+}
