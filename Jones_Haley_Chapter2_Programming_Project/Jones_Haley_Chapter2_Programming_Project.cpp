@@ -13,8 +13,8 @@ int main() {
 	int customersPurchase = total_customers * percent_purchase;
 	int customersPreferCitrus = customersPurchase * percent_citrus;
 
-	cout << "The approximate number of customers that purchase one or more engery drinks per week is " << customersPurchase << "." << endl;
-	cout << "The approximate number of customers that prefered citrus flavored energy drinks is " << customersPreferCitrus << "." << endl;
+	cout << "The approximate number of customers that purchase one or more energy drinks per week is " << customersPurchase << "." << endl;
+	cout << "The approximate number of customers that preferred citrus flavored energy drinks is " << customersPreferCitrus << "." << endl;
 
 	return 0;
 }
